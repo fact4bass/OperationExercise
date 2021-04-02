@@ -15,6 +15,17 @@ namespace OperationExercise
 
             Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
 
+            var r = 20;
+            var pi = Math.PI;
+
+            var areaOfCircle = pi * (r * r);
+
+            Console.WriteLine($"the area of a circle with the radius of {r} is {areaOfCircle}");
+
+
+
+
+
 
 
 
